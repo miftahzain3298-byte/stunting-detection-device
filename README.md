@@ -23,7 +23,7 @@ This device was originally a research project for Universitas Indonesia (UI). Th
 - Fixed the sensor readings
 - Made the device robust and reliable
 
-**The result:** The device worked perfectly. The project was completed. I was paid 3 million IDR.
+**The result:** The device worked perfectly. The project was completed.
 
 **Why this matters:** This project shows that I can:
 - Troubleshoot complex hardware issues quickly
