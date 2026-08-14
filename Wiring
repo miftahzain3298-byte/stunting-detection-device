@@ -1,0 +1,19 @@
+##Pin Mapping
+
+Component	              | Pin Connection	          | Notes
+------------------------|---------------------------|-----------------------------
+HX711 DOUT	            | Arduino A0	              | Data from load cell
+HX711 CLK	              | Arduino A1	              | Clock for load cell
+Potentiometer (Height)	| Arduino A2	              | Analog read for height
+Touch Sensor 1 (Head)	  | Arduino Pin 4	            | Capacitive touch, active LOW
+Touch Sensor 2 (Thigh)	| Arduino Pin 3	            | Capacitive touch, active HIGH
+Touch Sensor 3 (Calf)	  | Arduino Pin 2	            | Capacitive touch, active LOW
+Nextion Display RX	    | Arduino Serial2 (TX)	    | Connect to display TX
+Nextion Display TX	    | Arduino Serial2 (RX)	    | Connect to display RX
+ESP8266 TX              | Serial1 (RX)              | WiFi module communication 
+ESP8266 RX              | Serial1 (TX)              | WiFi module communication 
+SD Card CS	            | Arduino Pin 53	          | SPI chip select
+SD Card SCK	            | Arduino Pin 52	          | SPI clock 
+SD Card MOSI	          | Arduino Pin 51	          | SPI data out
+SD Card MISO	          | Arduino Pin 50	          | SPI data in
+Power                   | 5V / GND                  | External 5V 2A adapter 
