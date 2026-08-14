@@ -1,0 +1,11 @@
+| Component | Technology |
+|-----------|------------|
+| Microcontroller | Arduino Mega |
+| Display | Nextion HMI (Touch Screen) |
+| Weight Sensor | HX711 + Load Cell |
+| Height Sensor | Potentiometer-based (analog) |
+| Body Detection | Capacitive touch sensors |
+| Data Storage | SD Card (local) |
+| Connectivity | ESP8266 (WiFi) |
+| Cloud Server | PHP + MySQL |
+| Growth Standards | WHO Child Growth Standards |
