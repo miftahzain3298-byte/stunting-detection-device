@@ -1,0 +1,10 @@
+[Child on device]
+│
+▼
+[Load Cell (Weight)] + [Height Sensor] + [Touch Sensors]
+│
+▼
+[Arduino Mega] + [Nextion Display]
+│
+▼
+[SD Card Logging] + [WiFi] + [Cloud Server]
