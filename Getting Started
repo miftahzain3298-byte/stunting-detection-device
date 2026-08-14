@@ -1,0 +1,20 @@
+### Hardware Required
+- Arduino Mega
+- Nextion Display (3.5" or 5")
+- HX711 + Load Cell (5kg–20kg)
+- Potentiometer (height sensor)
+- Capacitive touch sensors (3x)
+- SD Card Module
+- ESP8266 (WiFi)
+- Power Supply (5V / 2A)
+
+### Configuration
+
+1. Open `stunting_detection.ino`
+2. Update WiFi credentials:
+```cpp
+char ssid[] = "your_wifi_name";
+char pass[] = "your_wifi_password";
+3. Update cloud server URL:
+```cpp
+char host[] = "your_server.com";
