@@ -1,0 +1,18 @@
+The device uses polynomial equations from the WHO Child Growth Standards:
+
+For Girls (Height-for-Age)
+y = 1.8617 + (5.49123e-2 * x)
+y1 = -2.286e-4*x⁴ + 1.454e-2*x³ - 3.444e-1*x² + 4.7282*x + 45.238
+
+For Boys (Height-for-Age)
+y = -5e-6*x⁴ + 3e-4*x³ - 4.1e-3*x² + 5.79e-2*x + 1.8522
+y1 = -2.2655e-4*x⁴ + 1.7e-2*x³ - 4.02e-1*x² + 5.262*x + 45.476
+
+Classification
+
+z-score	     | Classification
+≤ -3	       | Severely Stunted / Severely Wasted
+-2 to -3	   | Stunted / Wasted
+-2 to 2	     | Normal
+2 to 3	     | Risk of Overweight
+3+	         | Overweight / Obese
