@@ -1,5 +1,3 @@
-It's for the "Stunting Detection" (but just the coding).
-
 void(*mulai_reset) (void) = 0;
 
 
